@@ -5,3 +5,5 @@ ASUS H110M-R intel® Core™ i3-6100 Sapphire Radeon RX580 Tahoe Hackintosh Open
 ⚠️ Disclaimer:
 
 Use this EFI as a starting point, remember to always make your efi by following [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
+Please read the whole readme before proceeding 
+This readme is not yet complete and the efi is not yet complete
