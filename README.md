@@ -32,8 +32,15 @@ ASUS H110M-R intel® Core™ i3-6100 Sapphire Radeon RX580 Tahoe Hackintosh Open
 ### ✅️ What works
 
 • dGPU acceleration
+
 • Audio
+
 • HDMI port
+
 • USB ports (Using USBToolBox.kext and UTBDefault.kext)
+
 • Ethernet
+
 • iMessage
+
+---
