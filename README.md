@@ -12,7 +12,7 @@ ASUS H110M-R intel® Core™ i3-6100 Sapphire Radeon RX580 Tahoe Hackintosh Open
 
 • The [Apple Silicon theme](https://github.com/blackosx/BsxM1) for OpenCore is used in the boot picker
 
- ---
+---
 ![IMG_0906](https://github.com/user-attachments/assets/a249c2f6-3e09-4246-9ebc-db6a3d96521b)
 
 ---
@@ -66,3 +66,7 @@ Start GenSMBIOS and select option `1` to download and install MacSerial
 Select option `3` and enter `iMac20,1`
 **IMPORTANT**: reminder that you need an **invalid serial!** to check copy and paste the second part saying `Serial: XXXXX..` in [Apple's Check Coverage Page](https://checkcoverage.apple.com/), if you get a red message saying "We're sorry, we're unable to check coverage for this serial number." then you're good to go! Otherwise, go back and restart from step `2` (more info [here](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#serial-number-validity))
 once you get the right serial number you can go and fill the generated data in the config.plist file under `PlatformInfo` section, and you are good to go!
+
+---
+
+**not completed yet...**
