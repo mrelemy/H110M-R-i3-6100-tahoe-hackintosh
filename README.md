@@ -69,4 +69,8 @@ once you get the right serial number you can go and fill the generated data in t
 
 ---
 
+If you are using macOS Tahoe, please note that starting with macOS Tahoe Beta 2, Apple has removed AppleHDA.kext, which means audio will not work with AppleALC.kext. You can use [VoodooHDA.kext](https://github.com/chris1111/VoodooHDA-Tahoe?ysclid=mktj2hj8pg227179981) directly in the system or apply [OpenCore Legacy Patcher 3.0.0](https://github.com/dortania/OpenCore-Legacy-Patcher/actions/runs/19810638271) to add AppleHDA.kext back into the system.
+
+---
+
 **not completed yet...**
