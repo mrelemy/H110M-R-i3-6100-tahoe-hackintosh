@@ -14,7 +14,7 @@ ASUS H110M-R intel® Core™ i3-6100 Sapphire Radeon RX580 Tahoe Hackintosh Open
 
 ---
 
-![IMG_0944](https://github.com/user-attachments/assets/e443574b-f775-4949-9a69-c6dd86543b23)
+![IMG_0570](https://github.com/user-attachments/assets/e443574b-f775-4949-9a69-c6dd86543b23)
 
 
 ---
