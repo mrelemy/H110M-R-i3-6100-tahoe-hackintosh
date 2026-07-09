@@ -13,8 +13,8 @@ ASUS H110M-R intel® Core™ i3-6100 Sapphire Radeon RX580 Tahoe Hackintosh Open
 • The [Apple Silicon theme](https://github.com/blackosx/BsxM1) for OpenCore is used in the boot picker
 
 ---
+<img width="2425" height="1364" alt="IMG_0570" src="https://github.com/user-attachments/assets/02f425df-39c9-49fa-9202-567faa27a87e" />
 
-![IMG_0570](https://github.com/user-attachments/assets/e443574b-f775-4949-9a69-c6dd86543b23)
 
 
 ---
