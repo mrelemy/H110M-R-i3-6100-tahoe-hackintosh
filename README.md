@@ -76,4 +76,6 @@ If you are using macOS Tahoe, please note that starting with macOS Tahoe Beta 2,
 
 ---
 
+**Updated on 09.07.2026
+
 **not completed yet...**
